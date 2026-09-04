@@ -32,7 +32,7 @@ public class Clinic {
                     petFile.setPetId("D01");
                     petFile.setPetName("Bantay");
                     petFile.setPet(pet);
-                    ((Dog) pet).setBreed("German Shepherd");
+                    ((Dog) pet).setBreed("chihuahua");
 
                     System.out.println("\nPet id is " + petFile.getPetId());
                     System.out.println("Pet name is " + petFile.getPetName());
